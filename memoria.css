@@ -1,0 +1,40 @@
+
+h1{
+    font-family: 'Bungee Outline', cursiva;
+
+}
+
+#memoria {
+     max-width: max-content;
+   
+    
+ } 
+ #memoria #timer{
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 35pt;
+     font-weight: bold;
+     text-align: center;
+     background-color: lightgrey; 
+     border-radius: 10px;
+
+}
+ #memoria img{
+     margin-bottom: 20px;
+     border: thin solid black;
+     width: 80px;
+     height: 80px;
+     border-radius: 10px;
+    
+ }
+#memoria #rodape{
+    text-align: center;
+}
+#Lista{
+    font-family: Arial, Helvetica, sans-serif;
+     font-size: 35pt;
+     font-weight: bold;
+     text-align: center;
+     background-color: lightgrey; 
+     border-radius: 10px;
+}
+    
